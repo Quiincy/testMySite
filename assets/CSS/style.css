@@ -540,7 +540,22 @@ hr {
     background-color: #f38181;
 }
 @media (min-width: 300px) and (max-width: 600px) {
-    .body {
+    .header {
         width: 90%;
+}
+    .intro {
+        width: 90%;
+    }
+    .slider {
+        width: 90%;
+    }
+    .section {
+        width: 90%;
+    }
+    .statistics {
+        width: 90%;
+    }
+    .section section--gray {
+        width: 90%; 
     }
 }
